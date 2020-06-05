@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('vcx-0.9.0-dfac836.aar'))
